@@ -1,0 +1,14 @@
+.form {
+    border : 1px solid black;
+    padding: 15px;
+    width  : 400px;
+}
+
+.label {
+    display: grid;
+    width  : 100px;
+}
+
+.button {
+    margin-top: 15px;
+}
